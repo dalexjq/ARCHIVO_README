@@ -42,13 +42,13 @@ para rastrear y gestionar cambios en el código fuente a lo largo del tiempo.
    - Puedess crear tu primer repositorio haciendo clic en **New Repository** (Nuevo Repositorio).
    - Ingresa un nombre para tu repositorio, elige si quieres que sea público o privado, y agrega una descripción si quieres.
 
-## :question: :question: :question: Preguntas Frecuentes (FAQ)
+## :question: :question: Preguntas Frecuentes (FAQ)
 
 ### ¿Es GitHub gratuito?
 Sí, GitHub ofrece un plan gratuito con características esenciales. Si necesitas más funciones, como repositorios privados ilimitados, puedes optar por planes de pago.
 
 ### ¿Puedo colaborar en un proyecto sin tener una cuenta de pago?
-¡Sí! Puedes colaborar en proyectos públicos y contribuir a repositorios abiertos de manera gratuita.
+Sí, Puedes colaborar en proyectos públicos y contribuir a repositorios abiertos de manera gratuita.
 
 ### ¿Cómo puedo proteger mi código en GitHub?
 GitHub proporciona características de seguridad como **scanning de vulnerabilidades**, **gestión de acceso** a través de permisos y **autenticación de dos factores** para proteger tu cuenta.
