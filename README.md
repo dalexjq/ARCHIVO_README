@@ -1,6 +1,8 @@
 # <span style="color:green">Guía para Crear una Cuenta en Github y Para qué sirve GitHUb</span>
 
-![Imagen del proyecto](https://github.com/user-attachments/assets/a240ff06-9492-49e3-8457-42b1ed4fd22a)
+<h2 align="center">
+  <img src="https://github.com/user-attachments/assets/a240ff06-9492-49e3-8457-42b1ed4fd22a" alt="Imagen del proyecto">
+</h2>
 
 <h2 align="center">
 :construction: Proyecto Entornos De Desarrollo :construction:
