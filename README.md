@@ -5,7 +5,7 @@
 </h2>
 
 <h2 align="center">
-:construction: Proyecto Entornos De Desarrollo En Costrucción :construction:
+:construction: Proyecto Entornos De Desarrollo En Construcción :construction:
 </h2>
 
 ## :desktop_computer: ¿Qué es github?
