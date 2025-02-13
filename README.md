@@ -21,7 +21,7 @@ para rastrear y gestionar cambios en el código fuente a lo largo del tiempo.
 - `Documentación`: Ofrece **Github Pages** para crear sitios web estáticos y una wiki para documentar proyectos.
 - `Seguridad`: Detecta vulnerabilidades en dependencias y ofrece gestión de permisos.
 
-## :thinking ¿Cómo Crear una Cuenta en GitHub?
+## :thinking: ¿Cómo Crear una Cuenta en GitHub?
 
 1. **Sitio web de GitHub**
   - Abre el navegador que uses y ve a [GitHub.com](https://github.com).
@@ -38,7 +38,7 @@ para rastrear y gestionar cambios en el código fuente a lo largo del tiempo.
 4. **Personalizar la Cuenta**
    - Puedes personalizar tu perfil agregando una foto, biografía y otras preferencias.
   
-5. **Crea tu Primer Repositorio**
+5. :package: **Crea tu Primer Repositorio**
    - Puedess crear tu primer repositorio haciendo clic en **New Repository** (Nuevo Repositorio).
    - Ingresa un nombre para tu repositorio, elige si quieres que sea público o privado, y agrega una descripción si quieres.
 
