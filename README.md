@@ -74,4 +74,5 @@ GitHub es una plataforma esencial para el desarrollo de software moderno, ya que
 la colaboración, la gestión de proyectos y la automatización. Con estos pasos, ahora puedes comenzar a usar GitHub para almacenar, compartir y colaborar en tus proyectos de código. 
 
 **Trabajo realizado por:** *[David Alexander Janampa Quispe]*
+Prueba de modificacion del manual 2
 
